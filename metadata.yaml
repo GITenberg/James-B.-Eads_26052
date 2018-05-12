@@ -1,0 +1,28 @@
+_repo: James-B.-Eads_26052
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: How, Louis
+    birthdate: 1873
+    deathdate: 1947
+    gutenberg_agent_id: '2753'
+    url: http://www.gutenberg.org/2009/agents/2753
+description: ''
+gutenberg_issued: '2008-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26052'
+  lccn: 01029202
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Riverside Biographical Series, number 2
+subjects:
+- !lcsh 'Eads, James Buchanan, 1820-1887'
+- !lcc 'TA'
+title: James B. Eads
+url: http://www.gutenberg.org/ebooks/26052
